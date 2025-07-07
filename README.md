@@ -22,3 +22,6 @@ See `requirements.txt`.
 - `product`: Product name  
 - `quantity`: Quantity sold  
 - `revenue`: Total revenue generated  
+
+## Output
+See `Output Folder`
